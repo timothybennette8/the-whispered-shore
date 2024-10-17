@@ -1,5 +1,6 @@
-# the-whispered-shore
-# A Minecraft SMP. Hermitcraft style, respectful play between friends.
+# The Whispered Shore
+**A Minecraft SMP.** \
+Respectful play between friends, Hermitcraft style.
 
 - Server Details
 - World Details
