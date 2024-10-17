@@ -34,6 +34,6 @@ Difficulty: Easy
 
 - Vanilla Tweaks
 
-## Client Side Requirements and Suggested Mods
+## Client Side Suggested Mods and Resourcepacks
 
-All current recommended mods are contained in this repository! Just download and copy them into your mods folder 🤘
+All current recommended mods and resourcepacks are contained in this repository! Just download and copy them into the relevant folder 🤘
